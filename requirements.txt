@@ -1,5 +1,4 @@
 flask
 discordwebhook
 yfinance
-threading
 time
